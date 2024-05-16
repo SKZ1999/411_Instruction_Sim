@@ -1,4 +1,4 @@
-// UMBC Fall 2023 Project 4.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// UMBC Fall 2023 Project 4.c : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 
